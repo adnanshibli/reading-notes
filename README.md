@@ -18,9 +18,12 @@ like:
 increase creativity | destroy the creativity
 loses focus| persits
 
-and there is alot of the defrinces which can make 
+and there is alot of the defrinces which can make change in your life
+![fixed vs growth](https://abdulmalikme.files.wordpress.com/2018/01/screen-shot-2015-11-27-at-11-37-21.png)
 
+at the end 
 
+# your road to the succes start with the growth mindset
 
 
 
