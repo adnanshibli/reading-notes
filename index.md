@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/adnanshibli/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# the growth mindset
+ 
+there is many things about the **growth mindset** we should learn and it should be our mindset
+because of the growth mindest we can be creative and we can be smarter 
+### defrinces between **growth mindset** and **fixed mindset**
+fixed mindset | growth mindset 
+----------- | ---------------
+loses focus | perisits
+ignores| learn from
 
-### Markdown
+now i will put an image to explain more about that 
+![fixed vs growth](https://sites.dartmouth.edu/learning/files/2017/05/Growth-Mindset_Copyright-Big-Change1.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+you will face many challlenges in your life
+but you must choice how to facing it by the *growth mindset* or the *fixed mindset*
 
-# Header 1
-## Header 2
-### Header 3
+and the way you will face it the result will be
+like :
+1. if you fail in exam 
+2. if you face a problem in work
+3. if you are confused 
 
-- Bulleted
-- List
+all of this examples need from you your **growth mindset**
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adnanshibli/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+at  the end 
+### the road to your success starting by your growth mindset
