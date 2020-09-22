@@ -26,3 +26,6 @@ Suppose you're back in the late 1970s, before off-the-shelf computer programs ha
 
 ### What is an operating system?
 ![ss](https://cdn4.explainthatstuff.com/computer-architecture.jpg)
+Suppose you're back in the late 1970s, before off-the-shelf computer programs have really been invented. You want to program your computer to work as a word processor so you can bash out your first novel—which is relatively easy but will take you a few days of work. A few weeks later, you tire of writing things and decide to reprogram your machine so it'll play chess. Later still, you decide to program it to store your photo collection. Every one of these programs does different things, but they also do quite a lot of similar things too. For example, they all need to be able to read the keys pressed down on the keyboard, store things in memory and retrieve them, and display characters (or pictures) on the screen. If you were writing lots of different programs, you'd find yourself writing the same bits of programming to do these same basic operations every time. That's a bit of a programming chore, so why not simply collect together all the bits of program that do these basic functions and reuse them each time?
+
+
